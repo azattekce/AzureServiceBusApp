@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "17EJj8rdnEmpyS2fISjhQiyk5Ud790AOdJF8QEk+a0tuUSQmyckGALMZj7WxBW8x4BNjzilSQb3bkYEtOms0jA==",
+  "success": true,
+  "projectFilePath": "C:\\Azattekce\\Apps\\Workplace\\AzureServisBus\\ServicebusApp.Common\\ServicebusApp.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
